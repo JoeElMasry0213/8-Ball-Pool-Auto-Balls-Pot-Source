@@ -1,7 +1,7 @@
 # 8-Ball-Pool-Auto-Balls-Pot-Source
 
-<br>Use Microsoft Visual Studio To Comppile this Source</br> 
-x86 library Menu,work on Gameloop Emulator 
+<br>Use Microsoft Visual Studio To Compile this Source</br> 
+<br> x86 library Menu,work on Gameloop Emulator</br>
 
 
 <h1>Features:</h1>
